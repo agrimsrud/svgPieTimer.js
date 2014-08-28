@@ -45,6 +45,6 @@ Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 Authors and credits
 ---------------
-Created by Anders Grimsrud [grint.no](http://grint.no). This version is a refined version of the initial [SVG Pie Timer](http://codepen.io/agrimsrud/pen/EmCoa) experiment.
+Created by [Anders Grimsrud](grint.no). This release is a refined version of the initial [SVG Pie Timer](http://codepen.io/agrimsrud/pen/EmCoa) experiment.
 
-Inspired by the [Color Wheel](Thttp://itpastorn.github.io/webbteknik/future-stuff/svg/color-wheel.html) by [Lars Gunther](https://github.com/itpastorn).
+Inspired by the [Color Wheel](http://itpastorn.github.io/webbteknik/future-stuff/svg/color-wheel.html) by [Lars Gunther](https://github.com/itpastorn).
