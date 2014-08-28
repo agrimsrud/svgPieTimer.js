@@ -11,12 +11,12 @@ Recommended use
 ---------------
 
 ```html
-    <script src="svg-pie-timer.js"></script>
-    <script>
-    svgPieTimer({
-        element: svgElement,
-        duration: 1000,
-        loops: 2
-    });
-    </script>
+<script src="svg-pie-timer.js"></script>
+<script>
+svgPieTimer({
+    element: svgElement,
+    duration: 1000,
+    loops: 2
+});
+</script>
 ```
