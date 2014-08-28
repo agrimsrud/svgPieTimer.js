@@ -1,7 +1,7 @@
-SVGPieTimer.js
+svgPieTimer.js
 ================
 
-An animated SVG pie timer using requestAnimationFrame
+An animated SVG Pie Timer using requestAnimationFrame
 
 Current version: 0.9.1 released 28.08.2014 under MIT
 
@@ -12,7 +12,7 @@ I strongly recommend using a polyfill for requestAnimationFrame. Personally I pr
 
 ```html
 <script src="http://cdn.rawgit.com/darius/requestAnimationFrame/master/requestAnimationFrame.min.js"></script>
-<script src="SVGPieTimer.min.js"></script>
+<script src="svgPieTimer.min.js"></script>
 <script>
 svgPieTimer({
     element: SVGPathElement,
