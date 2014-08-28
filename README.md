@@ -29,19 +29,13 @@ svgPieTimer({
 Options
 ---------------
 
-Call svgPieTimer() with the following options:
+As seen above, you may call svgPieTimer() with the following options:
 
 `element` (required) SVG Path element to animate. Will accept array.
-`duration` (optional) Set duration in milliseconds.
-`loops` (optional) Set amount of spins. Leave blank for 1 spin. Set to 0 for infinite spins.
 
-```javascript
-svgPieTimer({
-    element: SVGPathElement,
-    duration: 1000,
-    loops: 2
-});
-```
+`duration` (optional) Set duration in milliseconds.
+
+`loops` (optional) Set amount of spins. Leave blank for 1 spin. Set to 0 for infinite spins.
 
 
 License
