@@ -27,11 +27,11 @@
             element.setAttribute('d', shape)
     }
   
-    w.svgPieTimer = function(options) {
+    w.svgPieTimer = function(props) {
 
-        var element = options.element,
-            duration = options.duration || 1000,
-            n = options.loops;
+        var element = props.element,
+            duration = props.duration || 1000,
+            n = props.loops;
 
         n = (n==0) ? 0 : n ? n : 1;
 

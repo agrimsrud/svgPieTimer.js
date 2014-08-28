@@ -36,15 +36,15 @@
     // Prepare timer
     // Define in global scope
   
-    w.svgPieTimer = function(options) {
+    w.svgPieTimer = function(props) {
 
-        var element = options.element,
-            duration = options.duration || 1000,
-            n = options.loops;
+        var element = props.element,
+            duration = props.duration || 1000,
+            n = props.loops;
 
         // Optional warning
         
-        if(!element) throw "SVG Pie Timer: Element required"
+        if(!element) throw "SVG Pie Timer: Error - element required"
 
         // This part might be confusing:
         // If n==0, do infinite loops

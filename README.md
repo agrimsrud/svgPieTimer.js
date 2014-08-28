@@ -3,7 +3,7 @@ svgPieTimer.js
 
 Animating an SVG Pie Timer in javascript
 
-Current version: 0.9.1 released 28.08.2014 under MIT
+Current version: 0.9.1 released 28.08.2014
 
 requestAnimationFrame
 ---------------
@@ -26,10 +26,10 @@ svgPieTimer({
 ```
 
 
-Options
+Properties
 ---------------
 
-As seen above, you may call svgPieTimer() with the following options:
+As seen above, you can call svgPieTimer() with the following properties:
 
 `element` (required) SVG Path element to animate. Will accept array.
 
