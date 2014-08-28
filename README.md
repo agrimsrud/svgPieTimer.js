@@ -14,7 +14,7 @@ Recommended use
 <script src="svg-pie-timer.js"></script>
 <script>
 svgPieTimer({
-    element: svgElement,
+    element: SVGPathElement,
     duration: 1000,
     loops: 2
 });
