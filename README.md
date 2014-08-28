@@ -1,4 +1,4 @@
-SVG Pie Timer
+SVGPieTimer.js
 ================
 
 An animated SVG pie timer using requestAnimationFrame
