@@ -42,11 +42,16 @@
             duration = options.duration || 1000,
             n = options.loops;
 
+        // Optional warning
+        
+        if(!element) throw "SVG Pie Timer: Element required"
+
         // This part might be confusing:
         // If n==0, do infinite loops
         // In other cases where n is set, do n loops
         // If n is not set, do 1 loop
         // Do it this way to prevent mixing n==0 and !n
+        
         n = (n==0) ? 0 : n ? n : 1;
 
         var end = Date.now() + duration * n,
