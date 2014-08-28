@@ -12,8 +12,6 @@ Simple use
 
 Call svgPieTimer() with the following options:
 
-```element```:
-
 ```javascript
 svgPieTimer({
     element: SVGPathElement,
