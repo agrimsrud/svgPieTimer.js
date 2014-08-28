@@ -12,7 +12,7 @@ I strongly recommend using a polyfill for requestAnimationFrame. Personally I pr
 
 ```html
 <script src="http://cdn.rawgit.com/darius/requestAnimationFrame/master/requestAnimationFrame.min.js"></script>
-<script src="svg-pie-timer.js"></script>
+<script src="SVGPieTimer.min.js"></script>
 <script>
 svgPieTimer({
     element: SVGPathElement,
