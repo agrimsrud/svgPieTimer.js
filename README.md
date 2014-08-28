@@ -40,7 +40,7 @@ As seen above, you may call svgPieTimer() with the following options:
 
 License
 ---------------
-Released under the (MIT License)[http://opensource.org/licenses/mit-license.php].
+Released under the [MIT License](http://opensource.org/licenses/mit-license.php).
 
 
 Authors and credits
